@@ -1,0 +1,30 @@
+# Backend (Node.js)
+backend/node_modules/
+backend/.env
+backend/.DS_Store
+backend/dist/
+backend/build/
+backend/logs/
+backend/debug.log
+backend/npm-debug.log
+backend/yarn-debug.log
+backend/yarn-error.log
+
+# Frontend (React.js)
+frontend/node_modules/
+frontend/.env
+frontend/.DS_Store
+frontend/build/
+frontend/dist/
+frontend/coverage/
+frontend/.next/
+frontend/.cache/
+frontend/.eslintcache
+frontend/.parcel-cache
+frontend/public/static/
+
+# General
+*.log
+*.lock
+*.gz
+*.zip

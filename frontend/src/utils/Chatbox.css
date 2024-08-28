@@ -1,0 +1,27 @@
+.chat-box {
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    justify-content: space-between;
+}
+
+.msg-count-box {
+    width: 100%;
+    text-align: right;
+    height: 30%;
+    background-color: white;
+    color: black;
+    box-sizing: border-box;
+    padding: 2px;
+}
+
+.chat-name-box {
+    width: 100%;
+    height: 50%;
+
+    color: white;
+    box-sizing: border-box;
+    padding: 2px;
+}
