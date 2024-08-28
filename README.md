@@ -57,9 +57,13 @@
 sender -> [message] -> (server) -> [structured_data] {updates the database} -> sender -> (io) -> (server io) -> {message to every receiver} ->
 
 > unseen message count needs to be fixed
+
 > css needs to be fixed
+
 > remove friend needs to be designed
+
 > group chat function needs to be designed
+
 > user dasboard needs to be designed
 
 ...
